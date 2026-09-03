@@ -12,8 +12,18 @@
             "age": 23,
             "email": "aahtasham102@gmail.com",
             "roll_no": "2301921530112",
-            "grades": {}
+            "grades": {
+                "OOPS": 90
+            }
         }
     ],
-    "teachers": []
+    "teachers": [
+        {
+            "name": "fsl ",
+            "age": 32,
+            "email": "fsl@gmail.com",
+            "subject": "maths",
+            "emp_id": "1"
+        }
+    ]
 }
